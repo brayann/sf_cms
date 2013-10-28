@@ -9,7 +9,8 @@ sf CMS
 * Authentication Sentry 2
 * Back-end	
 	* Manage article
-	* CKE editor for post creation and editing (Filemanager).
+	* Manage page
+	* CKE editor for article and page creation and editing. (File manager)
 * Front-end
 	* Simple Blog 
 	* Page
